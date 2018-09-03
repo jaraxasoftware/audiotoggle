@@ -1,0 +1,38 @@
+{
+  "name": "AudioToggle",
+  "version": "1.0.0",
+  "description": "Toggle between speaker and earpiece when playing audio",
+  "cordova": {
+    "id": "com.dooble.audiotoggle",
+    "platforms": [
+	  "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaraxasoftware/audiotoggle.git"
+  },
+  "keywords": [
+    "cordova",
+    "audio",
+	"toggle",
+	"speaker",
+	"earpiece",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/jaraxasoftware/audiotoggle/issues"
+  },
+  "homepage": "https://github.com/jaraxasoftware/audiotoggle#readme"
+}
